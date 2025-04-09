@@ -16,9 +16,10 @@ const allMajors = {
   END: derslerEND
 };
 
-function App() {
-  const { major } = useParams();
-  const derslerData = allMajors[major] || [];
+function App({ major, baseGPA = 0, baseCredits = 0 }) {
+  const routeParams = useParams();
+  const selectedMajor = major || routeParams.major;
+  const derslerData = allMajors[selectedMajor] || [];
 
   const [selectedCourse, setSelectedCourse] = useState(null);
   const [grade, setGrade] = useState("AA");
@@ -41,13 +42,8 @@ function App() {
   const uniqueCourses = Array.from(uniqueCoursesMap.values());
 
   const calculateAverage = (gradesList) => {
-    if (gradesList.length === 0) {
-      setAverage(null);
-      return;
-    }
-
-    let totalPoints = 0;
-    let totalCredits = 0;
+    let totalPoints = baseGPA * baseCredits;
+    let totalCredits = baseCredits;
 
     gradesList.forEach(item => {
       const gpa = gradeToGPA[item.grade];
@@ -56,7 +52,7 @@ function App() {
     });
 
     const avg = totalPoints / totalCredits;
-    setAverage(avg.toFixed(2));
+    setAverage(totalCredits === 0 ? null : avg.toFixed(2));
   };
 
   const handleAdd = () => {
@@ -67,9 +63,7 @@ function App() {
 
     const credit = parseFloat(course.credit.replace(",", "."));
 
-    // Replace any existing entry with same code
     const updatedGrades = grades.filter(item => item.code !== selectedCourse);
-
     updatedGrades.push({
       code: course.code,
       name: course.name,

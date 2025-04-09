@@ -1,0 +1,38 @@
+.mode-container {
+    min-height: 100vh;
+    background: linear-gradient(to right, #e8f5e9, #c8e6c9);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+  }
+  
+  h2 {
+    color: #2e7d32;
+    margin-bottom: 2rem;
+  }
+  
+  .mode-buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    width: 100%;
+    max-width: 400px;
+  }
+  
+  .mode-buttons button {
+    padding: 1rem;
+    font-size: 1rem;
+    background: #66bb6a;
+    color: white;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+  
+  .mode-buttons button:hover {
+    background: #43a047;
+  }
+  
