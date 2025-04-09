@@ -1,0 +1,272 @@
+[
+    {
+        "code": "MAT 101",
+        "name": "Matematik I",
+        "credit": "4"
+    },
+    {
+        "code": "FİZ 101",
+        "name": "Fizik I",
+        "credit": "3"
+    },
+    {
+        "code": "FİZ 101L",
+        "name": "Fizik I Laboratuvarı",
+        "credit": "1"
+    },
+    {
+        "code": "KİM 101",
+        "name": "Genel Kimya",
+        "credit": "3"
+    },
+    {
+        "code": "KİM 101L",
+        "name": "Genel Kimya Laboratuvarı",
+        "credit": "1"
+    },
+    {
+        "code": "MAK 112",
+        "name": "Bilgisayar Destekli Teknik Resim",
+        "credit": "4"
+    },
+    {
+        "code": "TÜR 101",
+        "name": "Türk Dili I",
+        "credit": "2"
+    },
+    {
+        "code": "İNG 001",
+        "name": "İngilizce I",
+        "credit": "2"
+    },
+    {
+        "code": "MAK 104",
+        "name": "Statik",
+        "credit": "3"
+    },
+    {
+        "code": "BİL 141",
+        "name": "Bilgisayar Programlama I",
+        "credit": "4"
+    },
+    {
+        "code": "MAT 102",
+        "name": "Matematik II",
+        "credit": "4"
+    },
+    {
+        "code": "FİZ 102",
+        "name": "Fizik II",
+        "credit": "3"
+    },
+    {
+        "code": "FİZ 102L",
+        "name": "Fizik II Laboratuvarı",
+        "credit": "1"
+    },
+    {
+        "code": "TÜR 102",
+        "name": "Türk Dili II",
+        "credit": "2"
+    },
+    {
+        "code": "ING 002",
+        "name": "İngilizce II",
+        "credit": "2"
+    },
+    {
+        "code": "OEG 101",
+        "name": "Ortak Eğitime Giriş",
+        "credit": "1"
+    },
+    {
+        "code": "MAK 203",
+        "name": "Dinamik",
+        "credit": "3"
+    },
+    {
+        "code": "MAK 217",
+        "name": "Malzeme Bilimi",
+        "credit": "3"
+    },
+    {
+        "code": "MAK 217L",
+        "name": "Malzeme Bilimi Lavoratuvarı",
+        "credit": "1"
+    },
+    {
+        "code": "ELE 297",
+        "name": "Elektrik ve Elektroniğin Temelleri",
+        "credit": "3"
+    },
+    {
+        "code": "MAT 201",
+        "name": "Doğrusal Cebir",
+        "credit": "3"
+    },
+    {
+        "code": "AİT 201",
+        "name": "Atatürk İlkeleri ve İnkılâp Tarihi I",
+        "credit": "2"
+    },
+    {
+        "code": "ING 003",
+        "name": "İngilizce Yazma Becerileri",
+        "credit": "2"
+    },
+    {
+        "code": "MAK 201",
+        "name": "Termodinamik",
+        "credit": "3"
+    },
+    {
+        "code": "MAK206E",
+        "name": "Mukavemet",
+        "credit": "3"
+    },
+    {
+        "code": "MAK 218",
+        "name": "İmal Usulleri",
+        "credit": "3"
+    },
+    {
+        "code": "MAK 218L",
+        "name": "İmal Usulleri Laboratuvarı",
+        "credit": "1"
+    },
+    {
+        "code": "MAT 202",
+        "name": "Diferansiyel Denklemler",
+        "credit": "3"
+    },
+    {
+        "code": "AİT 202",
+        "name": "Atatürk İlkeleri ve İnkılâp Tarihi II",
+        "credit": "2"
+    },
+    {
+        "code": "ING 004",
+        "name": "İngilizce Sunum Teknikleri",
+        "credit": "2"
+    },
+    {
+        "code": "MAK 316",
+        "name": "Makina Teorisi",
+        "credit": "3"
+    },
+    {
+        "code": "MAK 316L",
+        "name": "Makina Teorisi Laboratuvarı",
+        "credit": "1"
+    },
+    {
+        "code": "MAK307E",
+        "name": "Tasarım ve Üretim",
+        "credit": "3"
+    },
+    {
+        "code": "MAK 311",
+        "name": "Akışkanlar Mekaniği",
+        "credit": "3"
+    },
+    {
+        "code": "MAK 311L",
+        "name": "Akışkanlar Mekaniği Laboratuvarı",
+        "credit": "1"
+    },
+    {
+        "code": "END 320",
+        "name": "Mühendislik Ekonomisi",
+        "credit": "3"
+    },
+    {
+        "code": "İYD - 1",
+        "name": "İkinci Yabancı Dil 1",
+        "credit": "3"
+    },
+    {
+        "code": "MAK 302E",
+        "name": "Isı Transferi",
+        "credit": "3"
+    },
+    {
+        "code": "MAK 302LE",
+        "name": "Isı Transferi Laboratuvarı",
+        "credit": "1"
+    },
+    {
+        "code": "MAK310E",
+        "name": "Sayısal Yöntemler",
+        "credit": "3"
+    },
+    {
+        "code": "MAK 312",
+        "name": "Makina Elemanları",
+        "credit": "3"
+    },
+    {
+        "code": "MAK 305E",
+        "name": "Sistem Dinamiği ve Kontrol",
+        "credit": "3"
+    },
+    {
+        "code": "MAK305LE",
+        "name": "Sistem Dinamiği ve Kontrol Laboratuvarı",
+        "credit": "1"
+    },
+    {
+        "code": "İYD - 2",
+        "name": "İkinci Yabancı Dil 2",
+        "credit": "3"
+    },
+    {
+        "code": "BSD 1E",
+        "name": "Bölüm Seçmeli Ders",
+        "credit": "3"
+    },
+    {
+        "code": "BSD 2E",
+        "name": "Bölüm Seçmeli Ders",
+        "credit": "3"
+    },
+    {
+        "code": "BSD 3E",
+        "name": "Bölüm Seçmeli Ders",
+        "credit": "3"
+    },
+    {
+        "code": "ÜSD - 1",
+        "name": "Üniversite Seçmeli Dersi",
+        "credit": "3"
+    },
+    {
+        "code": "İYD - 3",
+        "name": "İkinci Yabancı Dil 3",
+        "credit": "3"
+    },
+    {
+        "code": "MAK 498E",
+        "name": "Bitirme Tasarım Projesi",
+        "credit": "4"
+    },
+    {
+        "code": "BSD 4E",
+        "name": "Bölüm Seçmeli Ders",
+        "credit": "3"
+    },
+    {
+        "code": "Bilim SD",
+        "name": "Bilim Seçmeli Ders",
+        "credit": "3"
+    },
+    {
+        "code": "UGİ 315",
+        "name": "Girişimcilik ve Liderlik",
+        "credit": "2"
+    },
+    {
+        "code": "İYD - 3",
+        "name": "İkinci Yabancı Dil 3",
+        "credit": "3"
+    }
+]

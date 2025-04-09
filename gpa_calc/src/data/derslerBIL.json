@@ -1,0 +1,247 @@
+[
+    {
+        "code": "BİL 113",
+        "name": "Bilgisayar Programlama I",
+        "credit": "4"
+    },
+    {
+        "code": "YAP 191",
+        "name": "Eleştirel Düşünme",
+        "credit": "3"
+    },
+    {
+        "code": "MAT 101",
+        "name": "Matematik I",
+        "credit": "4"
+    },
+    {
+        "code": "FİZ 101",
+        "name": "Fizik I",
+        "credit": "3"
+    },
+    {
+        "code": "FİZ 101L",
+        "name": "Fizik Laboratuvarı I",
+        "credit": "1"
+    },
+    {
+        "code": "TÜR 101",
+        "name": "Türk Dili I",
+        "credit": "2"
+    },
+    {
+        "code": "İNG 001",
+        "name": "İngilizce I",
+        "credit": "2"
+    },
+    {
+        "code": "BİL 211",
+        "name": "Bilgisayar Programlama II",
+        "credit": "4"
+    },
+    {
+        "code": "BİL 132",
+        "name": "Bilgisayar Bilimleri İçin Ayrık Matematik",
+        "credit": "3"
+    },
+    {
+        "code": "MAT 102",
+        "name": "Matematik II",
+        "credit": "4"
+    },
+    {
+        "code": "FİZ 102",
+        "name": "Fizik II",
+        "credit": "3"
+    },
+    {
+        "code": "FİZ 102L",
+        "name": "Fizik Laboratuvarı II",
+        "credit": "1"
+    },
+    {
+        "code": "TÜR 102",
+        "name": "Türk Dili II",
+        "credit": "2"
+    },
+    {
+        "code": "İNG 002",
+        "name": "İngilizce II",
+        "credit": "2"
+    },
+    {
+        "code": "BİL 133",
+        "name": "Kombinatorik",
+        "credit": "3"
+    },
+    {
+        "code": "BİL 212",
+        "name": "Veri Yapıları",
+        "credit": "4"
+    },
+    {
+        "code": "BİL 265",
+        "name": "Mantık Devresi Tasarımı ve Uygulamaları",
+        "credit": "4"
+    },
+    {
+        "code": "BİL 245",
+        "name": "Doğrusal Cebir ve Uygulamaları",
+        "credit": "4"
+    },
+    {
+        "code": "AİT 201",
+        "name": "Atatürk İlkeleri ve İnkılâp Tarihi I",
+        "credit": "2"
+    },
+    {
+        "code": "İNG 003",
+        "name": "İngilizce Yazma Becerileri",
+        "credit": "2"
+    },
+    {
+        "code": "BİL 214",
+        "name": "Sistem Programlama",
+        "credit": "4"
+    },
+    {
+        "code": "BİL 334",
+        "name": "Biçimsel Diller ve Otomata",
+        "credit": "3"
+    },
+    {
+        "code": "BİL 361",
+        "name": "Bilgisayar Mimarisi ve Organizasyonu",
+        "credit": "3"
+    },
+    {
+        "code": "İKT 105",
+        "name": "Ekonomiye Giriş",
+        "credit": "3"
+    },
+    {
+        "code": "OEG 101",
+        "name": "Ortak Eğitime Giriş",
+        "credit": "1"
+    },
+    {
+        "code": "AİT 202",
+        "name": "Atatürk İlkeleri ve İnkılâp Tarihi II",
+        "credit": "2"
+    },
+    {
+        "code": "İNG 004",
+        "name": "İngilizce Sunum Teknikleri",
+        "credit": "2"
+    },
+    {
+        "code": "BİL 331",
+        "name": "Algoritma Analizi",
+        "credit": "3"
+    },
+    {
+        "code": "BİL 395",
+        "name": "Programlama Dilleri",
+        "credit": "3"
+    },
+    {
+        "code": "BİL 481",
+        "name": "Yazılım Mühendisliği",
+        "credit": "3"
+    },
+    {
+        "code": "BİL 345",
+        "name": "Olasılık Teorisi",
+        "credit": "3"
+    },
+    {
+        "code": "UGİ 315",
+        "name": "Girişimcilik ve Liderlik",
+        "credit": "2"
+    },
+    {
+        "code": "İYD 1",
+        "name": "İkinci Yabancı Dil I",
+        "credit": "3"
+    },
+    {
+        "code": "BİL 372",
+        "name": "Veritabanı Sistemleri",
+        "credit": "4"
+    },
+    {
+        "code": "BİL 461",
+        "name": "İşletim Sistemleri",
+        "credit": "3"
+    },
+    {
+        "code": "Bilim SD",
+        "name": "Bilim Seçmeli Ders",
+        "credit": "3"
+    },
+    {
+        "code": "BSD 1",
+        "name": "Bölüm Seçmeli Dersi I",
+        "credit": "3"
+    },
+    {
+        "code": "İYD 2",
+        "name": "İkinci Yabancı Dil II",
+        "credit": "3"
+    },
+    {
+        "code": "BİL 452",
+        "name": "Veri İletişimi ve Bilgisayar Ağları",
+        "credit": "3"
+    },
+    {
+        "code": "BİL 495",
+        "name": "Yenilikçi Bilgisayar Uygulamaları",
+        "credit": "1"
+    },
+    {
+        "code": "FSD",
+        "name": "Fakülte Seçmeli Dersi",
+        "credit": "3"
+    },
+    {
+        "code": "BSD 2",
+        "name": "Bölüm Seçmeli Dersi II",
+        "credit": "3"
+    },
+    {
+        "code": "BSD 3",
+        "name": "Bölüm Seçmeli Dersi III",
+        "credit": "3"
+    },
+    {
+        "code": "İYD 3",
+        "name": "İkinci Yabancı Dil III",
+        "credit": "3"
+    },
+    {
+        "code": "BİL 496",
+        "name": "Bitirme Projesi",
+        "credit": "4"
+    },
+    {
+        "code": "BSD 4",
+        "name": "Bölüm Seçmeli Dersi IV",
+        "credit": "3"
+    },
+    {
+        "code": "BSD 5",
+        "name": "Bölüm Seçmeli Dersi V",
+        "credit": "3"
+    },
+    {
+        "code": "ÜSD",
+        "name": "Üniversite Seçmeli Dersi",
+        "credit": "3"
+    },
+    {
+        "code": "İYD 4",
+        "name": "İkinci Yabancı Dil IV",
+        "credit": "3"
+    }
+]
