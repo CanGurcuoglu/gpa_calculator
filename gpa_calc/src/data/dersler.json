@@ -1,0 +1,397 @@
+[
+    {
+        "code": "BİL 113",
+        "name": "Bilgisayar Programlama I",
+        "credit": "4"
+    },
+    {
+        "code": "MAT 101",
+        "name": "Matematik I",
+        "credit": "4"
+    },
+    {
+        "code": "İKT 213",
+        "name": "Mikroekonomi Teorisi I",
+        "credit": "3"
+    },
+    {
+        "code": "İŞL 161",
+        "name": "Finansa Giriş",
+        "credit": "3"
+    },
+    {
+        "code": "TÜR 101",
+        "name": "Türk Dili I",
+        "credit": "2"
+    },
+    {
+        "code": "İNG 001",
+        "name": "İngilizce I",
+        "credit": "2"
+    },
+    {
+        "code": "BİL 211",
+        "name": "Bilgisayar Programlama II",
+        "credit": "4"
+    },
+    {
+        "code": "MAT 102",
+        "name": "Matematik II",
+        "credit": "4"
+    },
+    {
+        "code": "BİL 132",
+        "name": "Bilgisayar Bilimleri için Ayrık Matematik",
+        "credit": "3"
+    },
+    {
+        "code": "YAP 101",
+        "name": "Veri Bilimine Giriş",
+        "credit": "3"
+    },
+    {
+        "code": "TÜR 102",
+        "name": "Türk Dili II",
+        "credit": "2"
+    },
+    {
+        "code": "İNG 002",
+        "name": "İngilizce II",
+        "credit": "2"
+    },
+    {
+        "code": "UGİ 315",
+        "name": "Girişimcilik ve Liderlik",
+        "credit": "2"
+    },
+    {
+        "code": "BİL 212",
+        "name": "Veri Yapıları",
+        "credit": "4"
+    },
+    {
+        "code": "BİL 245",
+        "name": "Doğrusal Cebir ve Uygulamaları",
+        "credit": "4"
+    },
+    {
+        "code": "YAP 191",
+        "name": "Eleştirel Düşünce",
+        "credit": "3"
+    },
+    {
+        "code": "BİL 133",
+        "name": "Kombinatorik ve Çizge Kuramı",
+        "credit": "3"
+    },
+    {
+        "code": "AİT 201",
+        "name": "Atatürk İlkeleri ve İnkılap Tarihi I",
+        "credit": "2"
+    },
+    {
+        "code": "İNG 003",
+        "name": "İngilizce Yazma Becerileri",
+        "credit": "2"
+    },
+    {
+        "code": "END 294",
+        "name": "Yöneylem Araştırmaları I",
+        "credit": "3"
+    },
+    {
+        "code": "BİL 214",
+        "name": "Sistem Programlama",
+        "credit": "4"
+    },
+    {
+        "code": "MAT 202",
+        "name": "Diferansiyel Denklemler",
+        "credit": "3"
+    },
+    {
+        "code": "BİL 345",
+        "name": "Olasılık Teorisi",
+        "credit": "3"
+    },
+    {
+        "code": "PSİ 103",
+        "name": "Psikolojiye Giriş",
+        "credit": "3"
+    },
+    {
+        "code": "AİT 202",
+        "name": "Atatürk İlkeleri ve İnkılap Tarihi II",
+        "credit": "2"
+    },
+    {
+        "code": "İNG 004",
+        "name": "İngilizce Sunum Teknikleri",
+        "credit": "2"
+    },
+    {
+        "code": "BİL 331",
+        "name": "Algoritma Analizi",
+        "credit": "3"
+    },
+    {
+        "code": "END 214",
+        "name": "Olasılık ve İstatistik II",
+        "credit": "3"
+    },
+    {
+        "code": "END 395",
+        "name": "Yöneylem Araştırmaları II",
+        "credit": "3"
+    },
+    {
+        "code": "YAP 441",
+        "name": "Yapay Zeka",
+        "credit": "3"
+    },
+    {
+        "code": "OEG 101",
+        "name": "Ortak Eğitime Giriş",
+        "credit": "1"
+    },
+    {
+        "code": "İYD - 1",
+        "name": "İkinci Yabancı Dil I",
+        "credit": "3"
+    },
+    {
+        "code": "OEG 200",
+        "name": "Ortak Eğitim I",
+        "credit": "0"
+    },
+    {
+        "code": "BİL 372",
+        "name": "Veritabanı Sistemleri",
+        "credit": "4"
+    },
+    {
+        "code": "YAP 470",
+        "name": "Yapay Öğrenme",
+        "credit": "3"
+    },
+    {
+        "code": "ASD – 1",
+        "name": "Anabilim Dalı Seçmeli Dersi I",
+        "credit": "3"
+    },
+    {
+        "code": "ASD – 2",
+        "name": "Anabilim Dalı Seçmeli Dersi II",
+        "credit": "3"
+    },
+    {
+        "code": "İYD - 2",
+        "name": "İkinci Yabancı Dil II",
+        "credit": "3"
+    },
+    {
+        "code": "OEG 300",
+        "name": "Ortak Eğitim II",
+        "credit": "0"
+    },
+    {
+        "code": "BİL 442",
+        "name": "Derin Öğrenme",
+        "credit": "3"
+    },
+    {
+        "code": "YAP 495",
+        "name": "Yenilikçi Yapay Zeka Uygulamaları",
+        "credit": "1"
+    },
+    {
+        "code": "BİL 476",
+        "name": "Veri Madenciliği",
+        "credit": "3"
+    },
+    {
+        "code": "ASD – 3",
+        "name": "Anabilim Dalı Seçmeli Dersi III",
+        "credit": "3"
+    },
+    {
+        "code": "ASD – 4",
+        "name": "Anabilim Dalı Seçmeli Dersi IV",
+        "credit": "3"
+    },
+    {
+        "code": "İYD - 3",
+        "name": "İkinci Yabancı Dil III",
+        "credit": "3"
+    },
+    {
+        "code": "OEG 400",
+        "name": "Ortak Eğitim III",
+        "credit": "0"
+    },
+    {
+        "code": "YAP 496",
+        "name": "Bitirme Projesi",
+        "credit": "4"
+    },
+    {
+        "code": "ASD – 5",
+        "name": "Anabilim Dalı Seçmeli Dersi V",
+        "credit": "3"
+    },
+    {
+        "code": "ASD – 6",
+        "name": "Anabilim Dalı Seçmeli Dersi VI",
+        "credit": "3"
+    },
+    {
+        "code": "ASD – 7",
+        "name": "Anabilim Dalı Seçmeli Dersi VII",
+        "credit": "3"
+    },
+    {
+        "code": "İYD - 4",
+        "name": "İkinci Yabancı Dil IV",
+        "credit": "3"
+    },
+    {
+        "code": "ELE 371",
+        "name": "Sinyaller ve Sistemler",
+        "credit": "3"
+    },
+    {
+        "code": "BİL 467",
+        "name": "Görüntü İşleme",
+        "credit": "3"
+    },
+    {
+        "code": "BİL 481",
+        "name": "Yazılım Mühendisliği",
+        "credit": "3"
+    },
+    {
+        "code": "BİL 486",
+        "name": "Robotiğe Giriş",
+        "credit": "3"
+    },
+    {
+        "code": "BİL 571",
+        "name": "Doğal Dil İşleme",
+        "credit": "3"
+    },
+    {
+        "code": "BİL 587",
+        "name": "Bilgisayarla Görü",
+        "credit": "3"
+    },
+    {
+        "code": "BİL 576",
+        "name": "Bilgi Erişim Sistemleri",
+        "credit": "3"
+    },
+    {
+        "code": "END 507",
+        "name": "Sezgisel Arama Metotları",
+        "credit": "3"
+    },
+    {
+        "code": "BİL 415",
+        "name": "Sosyal Ağlar",
+        "credit": "3"
+    },
+    {
+        "code": "YAP 490",
+        "name": "Araştırma Projesi I",
+        "credit": "1"
+    },
+    {
+        "code": "YAP 491",
+        "name": "Araştırma Projesi II",
+        "credit": "1"
+    },
+    {
+        "code": "İKT 214",
+        "name": "Mikroekonomi Teorisi II",
+        "credit": "3"
+    },
+    {
+        "code": "İKT 233",
+        "name": "Makroekonomi Teorisi I",
+        "credit": "3"
+    },
+    {
+        "code": "İKT 234",
+        "name": "Makroekonomi Teorisi II",
+        "credit": "3"
+    },
+    {
+        "code": "İŞL 362",
+        "name": "Finansal Piyasalar ve Kurumlar",
+        "credit": "3"
+    },
+    {
+        "code": "YAP 472",
+        "name": "Finansal Modelleme",
+        "credit": "3"
+    },
+    {
+        "code": "END 321",
+        "name": "Rassal Modeller",
+        "credit": "3"
+    },
+    {
+        "code": "İKT 351",
+        "name": "Ekonometri I",
+        "credit": "3"
+    },
+    {
+        "code": "İŞL 461",
+        "name": "Risk Yönetimi",
+        "credit": "3"
+    },
+    {
+        "code": "İKT 451",
+        "name": "Uygulamalı Ekonometri: Zaman Serisi Analizi",
+        "credit": "3"
+    },
+    {
+        "code": "İŞL 462",
+        "name": "Yatırım Analizi ve Portföy Yönetimi",
+        "credit": "3"
+    },
+    {
+        "code": "BİL 481",
+        "name": "Yazılım Mühendisliği",
+        "credit": "3"
+    },
+    {
+        "code": "END 507",
+        "name": "Sezgisel Arama Metotları",
+        "credit": "3"
+    },
+    {
+        "code": "YAP 471",
+        "name": "Hesaplamalı Finans**",
+        "credit": "3"
+    },
+    {
+        "code": "BİL 415",
+        "name": "Sosyal Ağlar",
+        "credit": "3"
+    },
+    {
+        "code": "BİL 574",
+        "name": "Finansta Yapay Zeka Uygulamaları",
+        "credit": "3"
+    },
+    {
+        "code": "YAP 490",
+        "name": "Araştırma Projesi I",
+        "credit": "1"
+    },
+    {
+        "code": "YAP 491",
+        "name": "Araştırma Projesi II",
+        "credit": "1"
+    }
+]
